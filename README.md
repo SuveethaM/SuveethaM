@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuveethaM&show_icons=true&locale=en" alt="suveethaM" /></p>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/SuveethaM?theme=dark&font=Noto%20Sans%20Elymaic)
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/SuveethaM?theme=dark&font=Noto%20Sans%20Elymaic) -->
